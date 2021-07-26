@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  Locale
+
+  Created by Mac Mini 2018 on 09.07.2021.
+  
+*/
+
+"player" = "player";
+
+"welcome" = "Welcome!";
+
+"enter_your_name" = "Enter your name";
+
+"enter_your_name" = "Enter your name";
+
+"addition" = "Addition";
+
+"enter_two_numbers" = "Enter two numbers";
+
+"enter_the_number" = "Enter the number";
+
+"answer" = "Answer";
+
+"guess_the_number" = "Guess the number";
+
+"please_enter_a_number_between_0_and_9" = "Please enter a number between 0 and 9";
+
+"your_number" = "Your number:";
+
+"the_hidden_number" = " The hidden number:";
+
+"hooray" = "Hooray!";
+
+"you_won" = "You won";
+
+"alas" = "Alas!";
+
+"you_lose" = "You lose";

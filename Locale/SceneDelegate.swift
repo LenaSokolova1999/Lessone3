@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Locale
 //
-//  Created by Mac Mini 2018 on 26.07.2021.
+//  Created by Mac Mini 2018 on 08.07.2021.
 //
 
 import UIKit
