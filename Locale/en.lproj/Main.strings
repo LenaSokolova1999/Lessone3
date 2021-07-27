@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Сложение"; ObjectID = "Vr6-9R-hbY"; */
+"Vr6-9R-hbY.normalTitle" = "Addition";
+
+/* Class = "UIButton"; normalTitle = "Угадай число"; ObjectID = "hRF-J4-9iM"; */
+"hRF-J4-9iM.normalTitle" = "Guess the number";
+
+/* Class = "UILabel"; text = "Привет"; ObjectID = "zqJ-OF-7DI"; */
+"zqJ-OF-7DI.text" = "Hello";
